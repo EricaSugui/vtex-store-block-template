@@ -1,0 +1,8 @@
+{
+  "editor.countdown.title": "Edit Countdown",
+  "editor.countdown.description": "Countdown component",
+  "countdown.title": "Countdown",
+  "countdown-title.title": "Countdown title",
+  "editor.countdown-title.title": "Edit Countdown title",
+  "editor.countdown-title.description": "Title component"
+}
